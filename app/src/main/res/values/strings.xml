@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Do U Know</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="password">Password</string>
+    <string name="register_here">Register Here</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="enter_phone_no">Enter Phone No</string>
+    <string name="verify">Verify</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="save">SAVE</string>
+    <string name="female">Female</string>
+    <string name="age">Age :-</string>
+    <string name="male">Male</string>
+    <string name="email">EMAIL</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="enter_your_details">Enter Your Details</string>
+    <string name="search">SEARCH</string>
+    <string name="todo">TODO</string>
+    <string name="edit_profile">Edit Profile</string>
+</resources>
